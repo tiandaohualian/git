@@ -6,5 +6,6 @@ public class Hello1 {
         System.out.println("hello2");
         System.out.println("hello3");
         System.out.println("hot1");
+        System.out.println("master");
     }
 }
